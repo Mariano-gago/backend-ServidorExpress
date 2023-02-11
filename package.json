@@ -1,7 +1,7 @@
 {
-  "name": "desafio2v1",
+  "name": "desafio3",
   "version": "1.0.0",
-  "description": "Desafio 2 v1",
+  "description": "Desafio servidor con Express",
   "main": "./src/app.js",
   "scripts": {
     "start": "nodemon ./src/app.js",
