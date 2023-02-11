@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Quilmes",
+    "description": "Lata de 450cc",
+    "price": 250,
+    "thumbnail": "./img-quilmes",
+    "code": 2,
+    "stock": 200
+  },
+  {
+    "id": 2,
+    "title": "Stella Artois",
+    "description": "Lata de 450cc",
+    "price": 350,
+    "thumbnail": "./img-stella",
+    "code": 5,
+    "stock": 300
+  },
+  {
+    "id": 3,
+    "title": "Miller",
+    "description": "Lata de 750cc",
+    "price": 550,
+    "thumbnail": "./img-miller",
+    "code": 18,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "Isembeck",
+    "description": "Lata de 750cc",
+    "price": 400,
+    "thumbnail": "./imagen-ise",
+    "code": 25,
+    "stock": 100
+  }
+]
